@@ -1,6 +1,5 @@
 package leetcode
 
-
 class MyHashMap {
   private var myMap = scala.collection.mutable.ListBuffer.empty[Array[Int]]
 
@@ -37,7 +36,7 @@ class MyHashMap {
   }
 }
 
-object main extends App {
+object main_myhash_table extends App{
   val myhash = new MyHashMap
 
   myhash.put(1,3)
