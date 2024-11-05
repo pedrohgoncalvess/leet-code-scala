@@ -1,6 +1,6 @@
 package leetcode
 
-object two_sum extends App {
+object twoSum extends App {
 
   val numsToExample: Array[Int] = Array(2, 7, 11, 15)
   val target: Int = 9

@@ -1,6 +1,6 @@
 package leetcode
 
-object reverse_integer extends App{
+object reverseInteger extends App{
 
   def reverse(x: Int): Int = {
 

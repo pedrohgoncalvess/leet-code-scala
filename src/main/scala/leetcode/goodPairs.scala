@@ -1,6 +1,6 @@
 package leetcode
 
-object good_pairs extends App {
+object goodPairs extends App {
 
   val nums: Array[Int] = Array(1,1,2,3,1,2,3)
 
